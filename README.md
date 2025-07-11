@@ -4,7 +4,6 @@ En este video te muestro paso a paso cómo crear un formulario web personalizado
 
 El formulario permite registrar datos como **nombre**, **correo** y **mensaje**, y los guarda automáticamente en tu hoja de cálculo en la nube. Ideal para **proyectos educativos**, **formularios de contacto**, **registros** o **encuestas**.
 
-[![Ver en YouTube](https://img.youtube.com/vi/urkRymI2LAA/0.jpg)](https://youtu.be/urkRymI2LAA?si=TuPKoQg42-kwHpmb)
 
 ## 🛠️ Tecnologías usadas
 
@@ -20,6 +19,7 @@ El formulario permite registrar datos como **nombre**, **correo** y **mensaje**,
 - ✔️ Mensajes visuales de éxito o error
 
 ---
+[![Ver en YouTube](https://img.youtube.com/vi/urkRymI2LAA/0.jpg)](https://youtu.be/urkRymI2LAA?si=TuPKoQg42-kwHpmb)
 
 🔗 **[Ver tutorial en YouTube](https://youtu.be/urkRymI2LAA?si=TuPKoQg42-kwHpmb)**
 
